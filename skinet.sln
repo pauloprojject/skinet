@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "skinet", "skinet\skinet.csproj", "{C8698299-BA15-4E30-A152-31232FC79ED3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{D6BD32CC-FDEA-4104-A87C-60D2C76A60A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{30777189-7872-4381-B478-AD2D1649B1DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{C8698299-BA15-4E30-A152-31232FC79ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8698299-BA15-4E30-A152-31232FC79ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8698299-BA15-4E30-A152-31232FC79ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6BD32CC-FDEA-4104-A87C-60D2C76A60A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6BD32CC-FDEA-4104-A87C-60D2C76A60A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6BD32CC-FDEA-4104-A87C-60D2C76A60A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6BD32CC-FDEA-4104-A87C-60D2C76A60A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30777189-7872-4381-B478-AD2D1649B1DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30777189-7872-4381-B478-AD2D1649B1DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30777189-7872-4381-B478-AD2D1649B1DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30777189-7872-4381-B478-AD2D1649B1DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
